@@ -1,0 +1,1 @@
+{"nombre": "Caso 1: El PC no enciende", "hechos": {"no_enciende": true, "sin_led": true, "cable_verificado": true, "equipo_lento": false}}
